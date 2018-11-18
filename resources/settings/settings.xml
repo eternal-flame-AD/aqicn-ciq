@@ -1,0 +1,8 @@
+<settings>
+    <setting propertyKey="@Properties.apiKey" title="@Strings.aqiCNKey" prompt="@Strings.aqiCNKeyPrompt">
+        <settingConfig type="alphaNumeric" required="true" />
+    </setting>
+        <setting propertyKey="@Properties.stationName" title="@Strings.stationName" prompt="@Strings.stationNamePrompt">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+</settings>

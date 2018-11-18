@@ -1,0 +1,4 @@
+<properties>
+	<property id="apiKey" type="string">demo</property>
+	<property id="stationName" type="string">here</property>
+</properties>

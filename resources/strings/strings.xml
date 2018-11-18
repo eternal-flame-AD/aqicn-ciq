@@ -1,0 +1,20 @@
+<strings>
+    <string id="AppName">AQICN</string>
+
+    <string id="aqiCNKey">AQICN API Key</string>
+    <string id="aqiCNKeyPrompt">Enter your AQICN API Key here</string>
+    <string id="stationName">AQICN Station Name</string>
+    <string id="stationNamePrompt">Leave empty to determine by IP address</string>
+
+    <string id="keyNamePressure">Pressure</string>
+    <string id="keyNameSO2">SO2</string>
+    <string id="keyNamePM25">PM2.5</string>
+    <string id="keyNamePM10">PM10</string>
+    <string id="keyNameNO2">NO2</string>
+    <string id="keyNameHumidity">Humidity</string>
+    <string id="keyNameO3">O3</string>
+    <string id="keyNameWind">Wind</string>
+    <string id="keyNameCO">CO</string>
+    <string id="keyNameTemp">Temp</string>
+    <string id="keyNameGust">Gust</string>
+</strings>

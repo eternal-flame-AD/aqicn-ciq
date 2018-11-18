@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/KeyTranslator.mc" id="3" lineNum="18" pc="268435456" symbol="tryTranslateKey"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/KeyTranslator.mc" id="3" lineNum="19" pc="268435460" symbol="tryTranslateKey"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/KeyTranslator.mc" id="3" lineNum="20" pc="268435482" symbol="tryTranslateKey"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/KeyTranslator.mc" id="3" lineNum="22" pc="268435512" symbol="tryTranslateKey"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="5" lineNum="4" pc="268435519" symbol="format"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="5" lineNum="5" pc="268435523" symbol="format"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="5" lineNum="6" pc="268435534" symbol="format"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="5" lineNum="8" pc="268435563" symbol="format"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="11" pc="268435590" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="12" pc="268435594" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="13" pc="268435621" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="14" pc="268435628" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="15" pc="268435660" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="16" pc="268435692" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="17" pc="268435714" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="18" pc="268435752" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="20" pc="268435765" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/DataFormatter.mc" id="7" lineNum="21" pc="268435786" symbol="calculateEpoch"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="9" lineNum="13" pc="268435796" symbol="initialize"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="9" lineNum="14" pc="268435800" symbol="initialize"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="10" lineNum="18" pc="268435819" symbol="onLayout"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="10" lineNum="19" pc="268435823" symbol="onLayout"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="11" lineNum="25" pc="268435861" symbol="onShow"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="29" pc="268435866" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="31" pc="268435870" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="32" pc="268435890" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="33" pc="268435931" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="34" pc="268436003" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="35" pc="268436081" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="36" pc="268436212" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="37" pc="268436237" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="38" pc="268436273" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="39" pc="268436346" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="40" pc="268436375" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="42" pc="268436472" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="44" pc="268436557" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="45" pc="268436570" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="46" pc="268436642" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="12" lineNum="48" pc="268436717" symbol="onUpdate"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="13" lineNum="52" pc="268436790" symbol="onError"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="13" lineNum="53" pc="268436794" symbol="onError"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="13" lineNum="54" pc="268436807" symbol="onError"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="13" lineNum="55" pc="268436817" symbol="onError"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="14" lineNum="58" pc="268436834" symbol="onAQIData"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="14" lineNum="59" pc="268436838" symbol="onAQIData"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="14" lineNum="60" pc="268436851" symbol="onAQIData"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="14" lineNum="61" pc="268436861" symbol="onAQIData"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNView.mc" id="15" lineNum="67" pc="268436878" symbol="onHide"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="17" lineNum="11" pc="268436883" symbol="initialize"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="17" lineNum="12" pc="268436887" symbol="initialize"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="18" lineNum="16" pc="268436906" symbol="onStart"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="18" lineNum="17" pc="268436910" symbol="onStart"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="18" lineNum="18" pc="268436947" symbol="onStart"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="18" lineNum="19" pc="268436984" symbol="onStart"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="19" lineNum="23" pc="268436997" symbol="onStop"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="20" lineNum="27" pc="268437002" symbol="getInitialView"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="20" lineNum="28" pc="268437006" symbol="getInitialView"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="20" lineNum="29" pc="268437036" symbol="getInitialView"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="32" pc="268437060" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="33" pc="268437064" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="34" pc="268437075" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="35" pc="268437085" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="36" pc="268437104" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="37" pc="268437112" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="38" pc="268437137" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="39" pc="268437161" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="41" pc="268437208" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="47" pc="268437360" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="48" pc="268437379" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="21" lineNum="51" pc="268437411" symbol="receiveAQIResponse"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="22" lineNum="55" pc="268437432" symbol="getAQI"/>
+        <entry filename="/home/ef/code/eclipse/AQICN/source/AQICNApp.mc" id="22" lineNum="56" pc="268437436" symbol="getAQI"/>
+        <entry filename="Rez" id="29" lineNum="35" pc="268437525" symbol="MainLayout"/>
+        <entry filename="Rez" id="29" lineNum="39" pc="268437537" symbol="MainLayout"/>
+        <entry filename="Rez" id="29" lineNum="40" pc="268437680" symbol="MainLayout"/>
+        <entry filename="Rez" id="29" lineNum="41" pc="268437713" symbol="MainLayout"/>
+        <entry filename="Rez" id="29" lineNum="44" pc="268437765" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="12" object="true" symbol="AQICNView"/>
+        <entry field="true" id="25" symbol="keyNameGust"/>
+        <entry id="41" method="true" symbol="calculateEpoch"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="13" object="true" symbol="AQICNApp"/>
+        <entry field="true" id="32" symbol="keyNameSO2"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388764" method="true" symbol="format"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="10" object="true" symbol="KeyTranslator"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="19" method="true" symbol="MainLayout"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="37" symbol="errMsg"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="44" method="true" symbol="receiveAQIResponse"/>
+        <entry field="true" id="30" symbol="stationNamePrompt"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="26" symbol="AppName"/>
+        <entry field="true" id="38" symbol="aqiResp"/>
+        <entry field="true" id="42" symbol="view"/>
+        <entry id="15" method="true" symbol="tryTranslateKey"/>
+        <entry field="true" id="43" symbol="apiKey"/>
+        <entry field="true" id="23" symbol="keyNameO3"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="33" symbol="stationName"/>
+        <entry id="45" method="true" symbol="getAQI"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="27" symbol="keyNameCO"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="40" method="true" symbol="onAQIData"/>
+        <entry field="true" id="14" symbol="translations"/>
+        <entry field="true" id="24" symbol="keyNameWind"/>
+        <entry id="11" object="true" symbol="DataFormatter"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="36" symbol="status"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="34" symbol="keyNameNO2"/>
+        <entry field="true" id="29" symbol="aqiCNKeyPrompt"/>
+        <entry field="true" id="31" symbol="keyNamePressure"/>
+        <entry field="true" id="39" symbol="translator"/>
+        <entry id="17" module="true" symbol="Layouts"/>
+        <entry field="true" id="22" symbol="keyNameHumidity"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388828" method="true" symbol="onError"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry field="true" id="35" symbol="keyNamePM25"/>
+        <entry field="true" id="28" symbol="keyNamePM10"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="21" symbol="aqiCNKey"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="20" symbol="keyNameTemp"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435516" name="key" stackId="1" startPc="268435456"/>
+        <entry endPc="268435590" name="key" stackId="1" startPc="268435519"/>
+        <entry endPc="268435590" name="val" stackId="2" startPc="268435519"/>
+        <entry endPc="268435792" name="tzminute" stackId="5" startPc="268435594"/>
+        <entry endPc="268435792" name="tzhour" stackId="4" startPc="268435594"/>
+        <entry endPc="268435792" name="tzdelta" stackId="3" startPc="268435594"/>
+        <entry endPc="268435793" name="v" stackId="1" startPc="268435590"/>
+        <entry endPc="268435793" name="tz" stackId="2" startPc="268435590"/>
+        <entry endPc="268435861" name="dc" stackId="1" startPc="268435819"/>
+        <entry endPc="268436541" name="str" stackId="4" startPc="268436273"/>
+        <entry endPc="268436554" name="i" stackId="3" startPc="268436273"/>
+        <entry endPc="268436554" name="keys" stackId="2" startPc="268435931"/>
+        <entry endPc="268436790" name="dc" stackId="1" startPc="268435866"/>
+        <entry endPc="268436834" name="msg" stackId="1" startPc="268436790"/>
+        <entry endPc="268436878" name="data" stackId="1" startPc="268436834"/>
+        <entry endPc="268436997" name="state" stackId="1" startPc="268436906"/>
+        <entry endPc="268437002" name="state" stackId="1" startPc="268436997"/>
+        <entry endPc="268437208" name="i" stackId="6" startPc="268437161"/>
+        <entry endPc="268437357" name="dataMap" stackId="4" startPc="268437104"/>
+        <entry endPc="268437357" name="keys" stackId="5" startPc="268437104"/>
+        <entry endPc="268437408" name="status" stackId="3" startPc="268437075"/>
+        <entry endPc="268437432" name="responseCode" stackId="1" startPc="268437060"/>
+        <entry endPc="268437432" name="data" stackId="2" startPc="268437060"/>
+        <entry endPc="268437782" name="rez_cmp_local_bitmap_3646468631_fontHeight" stackId="3" startPc="268437537"/>
+        <entry endPc="268437782" name="rez_cmp_local_bitmap_3646468631" stackId="2" startPc="268437537"/>
+        <entry endPc="268437783" name="dc" stackId="1" startPc="268437525"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="tryTranslateKey" parent="KeyTranslator">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="format" parent="DataFormatter">
+            <param id="key"/>
+            <param id="val"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calculateEpoch" parent="DataFormatter">
+            <param id="v"/>
+            <param id="tz"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AQICNView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AQICNView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AQICNView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AQICNView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onError" parent="AQICNView">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAQIData" parent="AQICNView">
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="AQICNView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AQICNApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AQICNApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AQICNApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AQICNApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="receiveAQIResponse" parent="AQICNApp">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getAQI" parent="AQICNApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="206" parentId="globals" symbolId="KeyTranslator" type="class"/>
+        <dataEntry offset="269" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="348" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="387" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="418" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="449" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="480" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="519" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="678" parentId="globals" symbolId="AQICNView" type="class"/>
+        <dataEntry offset="805" parentId="globals" symbolId="DataFormatter" type="class"/>
+        <dataEntry offset="899" parentId="globals" symbolId="AQICNApp" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
